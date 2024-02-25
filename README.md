@@ -1,6 +1,6 @@
 [![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)](https://mhmdsalman18.github.io/Portfolio/)
 <h1 align="center">Hi 👋, I'm Muhammed Salman</h1>
-<h3 align="center">A passionate guy from India</h3>
+<!-- <h3 align="center">A passionate guy from India</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmdsalman18&label=Profile%20views&color=0e75b6&style=flat" alt="mhmdsalman18" /> </p>
 
