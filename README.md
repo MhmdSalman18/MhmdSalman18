@@ -1,4 +1,4 @@
-<h2 align="left">Slow Growth, Strong Roots</h2>
+<h2 align="left">⚙️ Git happens. 🚀</h2>
 
 ###
 
