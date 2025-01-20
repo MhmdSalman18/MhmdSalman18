@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/muhammed-salman-40177b225/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://www.linkedin.com/in/muhammed-salman-40177b225/" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammed-salman-40177b225/](https://muhammedsalman.framer.ai/" target="_blank">
    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=internet-explorer&label=&color=FF6F61&logoColor=white&labelColor=&style=for-the-badge"  height="35" alt="Portfolio Badge">
   </a>
   <a href="https://www.behance.net/muhammedsalman18" target="_blank">
